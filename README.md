@@ -23,3 +23,11 @@ The list of knowledge about devtools. There are basic elements showed below.
 <p>- Debugging elements, where we can set breakpoints on a code execution.</p>
 
 ![Sources](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Sources_nkycic.png)
+## Network
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+![Network](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Network_rgwkov.png)
