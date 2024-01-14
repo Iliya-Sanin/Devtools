@@ -16,3 +16,10 @@ The list of knowledge about devtools. There are basic elements showed below.
 <p>- Control elements.</p>
 
 ![Console](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Console_upwibr.png)
+## Sources
+<p> It is a powerful toolset for debugging, inspecting, and editing the source code of web pages.</p>
+<p>- List of files accociated with the page;</p>
+<p>- Code;</p>
+<p>- Debugging elements, where we can set breakpoints on a code execution.</p>
+
+![Sources](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Sources_nkycic.png)
