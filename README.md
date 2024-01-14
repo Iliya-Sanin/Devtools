@@ -1,5 +1,5 @@
 # Devtools
-The list of knowledge about devtools. There are basic elements showed below.
+The list of knowledge about devtools. There are basic elements used by testers below.
 ## Elements
 <p> There next important components are:</p>
 <p>- Code. We can find the necessary element here, see its parameters (size, color, link, layouts, font, etc.); </p>
@@ -34,3 +34,23 @@ The list of knowledge about devtools. There are basic elements showed below.
 <p>- Load time.</p>
 
 ![Network](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Network_rgwkov.png)
+## Performance
+<p>It is designed to help with analyzing and optimization the performance.</p>
+<p> There next important components are:</p>
+<p>- Recording buttons;</p>
+<p>- Upload, download a report;</p>
+<p>- Timeline of events, which includes rendering, scripting, network requests, etc;</p>
+<p>- CPU resources usage analyzing.</p>
+
+![Performance](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Performance_kzye8h.png)
+## Application
+<p>This tab helps to manahe various aspects of web application, from storage and caching to service workers and performance.</p>
+<p> There next important components are:</p>
+<p>- The list of elements as application list, storage list, background service list;</p>
+<p>- Cookies;</p>
+<p>- Private state tokens using during this session;</p>
+<p>- Cache storage;</p>
+<p>- Back-forward cache is used for reducing the time loading during navigation between website pages;</p>
+<p>- Clear site data button.</p>
+
+![Application](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193581/Application_c1pdae.png)
