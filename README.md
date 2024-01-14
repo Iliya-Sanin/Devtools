@@ -28,7 +28,7 @@ The list of knowledge about devtools. There are basic elements used by testers b
 <p>This is all about network activity on a page.</p>
 <p> There next important components are:</p>
 <p>- Options like throttling of connection, a signal's quality, cash disabling, etc;</p>
-<p>- Filter (search) for page elements It's also possible to chose some options here and a neccecery type of an element;</p>
+<p>- Filter (search) for page elements It's also possible to chose some options here and a necessary type of an element;</p>
 <p>- Timeline with a loading time of each element on the webpage;</p>
 <p>- Detailed information about the each element like method, status, type, priority, etc;</p>
 <p>- Load time.</p>
@@ -44,7 +44,7 @@ The list of knowledge about devtools. There are basic elements used by testers b
 
 ![Performance](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Performance_kzye8h.png)
 ## Application
-<p>This tab helps to manahe various aspects of web application, from storage and caching to service workers and performance.</p>
+<p>This tab helps to manage various aspects of web application, from storage and caching to service workers and performance.</p>
 <p> There next important components are:</p>
 <p>- The list of elements as application list, storage list, background service list;</p>
 <p>- Cookies;</p>
@@ -54,3 +54,24 @@ The list of knowledge about devtools. There are basic elements used by testers b
 <p>- Clear site data button.</p>
 
 ![Application](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193581/Application_c1pdae.png)
+## Security
+<p>It provides information and insights related to the security of the current webpage</p>
+<p> There next important components are:</p>
+<p>- Security overview bar: alerts, security information, other information;</p>
+<p>- Connection security information (https, http, etc.);</p>
+<p>- Certificate details;</p>
+<p>- Network requests.</p>
+
+![Security](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Security_x5p7q8.png)
+## Lighthouse
+<p>It helps to assess various aspects of a website's performance, accessibility, SEO, and more.</p>
+<p>- Performance audit - metrics of performance on a webpage;</p>
+<p>- Detailed information describing each performance parameter;</p>
+<p>- Recommendations for performance improving.</p>
+
+![Lighthouse](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Lighthouse_flrzcc.png)
+## Settings
+<p>There are various kinds of settings in here. List with setting is showed on the picture. Each item has a bunch of options for configuring a particular web-browser state.</p>
+
+
+![Settings](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193583/Settings_ygrtk3.png)
