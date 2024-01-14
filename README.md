@@ -6,5 +6,4 @@ The list of knowledge about devtools.
 <p>- Mobile devices. There is a possibility to choose a particular device with its correct resolution and display rotation as well;</p>
 <p>- Custom resolution parameters. We can use custom resolution for testing a page;</p>
 <p>- Throttling. We can imitate a performance of mobile devices;</p>
-<p>- Scale. We can adjust the scale of visible screen.</p>
-![Elements](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Mobile_enn69l.png)
+<p>- Scale. We can adjust the scale of visible screen.</p> ![Elements](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Mobile_enn69l.png)
