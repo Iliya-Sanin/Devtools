@@ -10,4 +10,9 @@ The list of knowledge about devtools. There are basic elements showed below.
 
 ![Elements](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Mobile_enn69l.png)
 ## Console
+<p> There next important components are:</p>
+<p>- Alerts. Here is a list of crucial warnings: errors, messages, warnings, etc;</p>
+<p>- Filter. It's a search for warnings. Allows to find a particular text quickly;</p>
+<p>- Control elements.</p>
+
 ![Console](https://res.cloudinary.com/dowdwz8ak/image/upload/v1705193582/Console_upwibr.png)
